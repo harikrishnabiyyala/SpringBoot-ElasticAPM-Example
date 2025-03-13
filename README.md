@@ -49,5 +49,6 @@ open configuration > modify options > Add VM arguments
 ![3.png](Images/3.png)
 ![4.png](Images/4.png)
 ![5.png](Images/5.png)
+![6.png](Images/6.png)
 
 Ref : https://www.arika.dev/posts/how-to-deploy-elk-stack-using-docker-compose/
