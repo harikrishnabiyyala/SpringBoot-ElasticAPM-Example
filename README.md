@@ -51,4 +51,8 @@ open configuration > modify options > Add VM arguments
 ![5.png](Images/5.png)
 ![6.png](Images/6.png)
 
+APM automatically creates transactions for http requests so no need to create manual transaction
+we can get the current transaction and update the details and we can additionally start and stop spans in between
+
+
 Ref : https://www.arika.dev/posts/how-to-deploy-elk-stack-using-docker-compose/
